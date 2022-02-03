@@ -1,12 +1,5 @@
-# Webpack Starter
+# To Do en JavaScript y WebPack
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Este es mi primer proyecto con el lenguaje guiado por el curso de Fernando Herrera
 
-### Notas:
-No olvidar reconstruir los modulos de node:
-```
-npm install
-```
-Ademas, para construir el build, con:
-```
-npm run build
+
